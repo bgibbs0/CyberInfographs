@@ -5,3 +5,4 @@ Within this repository, I am excited to share a collection of cybersecurity info
 </br>
 </br>
 <h2>Malicous Advertising - <i>Malvertising</i>  </h2>
+The infographic below details how threat actors could compromise a machine by embedding malicous payloads in advertisements. 
